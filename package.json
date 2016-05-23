@@ -1,0 +1,23 @@
+{
+  "name": "generator-kabomi-jasmine",
+  "version": "0.0.1",
+  "description": "Karma + Jasmine + Perks",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "files": [
+    "generators/app"
+  ],
+  "keywords": [
+    "karma",
+    "jasmine",
+    "gulp"
+  ],
+  "author": "Imobach Martin",
+  "license": "ISC",
+  "dependencies": {
+    "generator-karma": "^2.0.0",
+    "yeoman-generator": "^0.22.6"
+  }
+}
